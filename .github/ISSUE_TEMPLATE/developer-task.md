@@ -17,5 +17,6 @@ Descreva de forma clara e objetiva a tarefa em questão
 
 
 ## Considerações e notas
-
+Adicione informações relevantes, se necessário.
+Ex:
 * A implementação destas mudanças implica em aumentar o consumo de disco..
