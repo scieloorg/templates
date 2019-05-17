@@ -23,7 +23,7 @@ Descreva com clareza qual seria o comportamento **esperado** (correto) ao reprod
 Para dar mais detalhes e contexto sobre o erro, considere anexar fotos ou vídeos do problema.
 
 ### Anexos
-Está seção é opcional, utilize para referenciar arquivos que servem de insumo para reproduzir o erro, ex:
+Esta seção é opcional. Utilize para referenciar arquivos que servem de insumo para reproduzir o erro, ex:
 - XML utilizado
 - HTML produzido
 - PDF criado
